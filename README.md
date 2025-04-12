@@ -13,6 +13,16 @@ An hexapod robot using arduino and servo motors
 - Blu-tack
 - Jumper cables
 
+Need 5V for the motors board. VCC will be propagated to the main board (Arduino, ESP32,..)
+You need at least 2A upper limit to move.
+
 ## Software
 
-For now, only a dirty arduino program was implemented.
+### Arduino
+
+Basic Arduino program to activate all the servo.
+See the pinout in the .ino file. The VCC going out of the PCA9868 should go to the 5V of the board.
+
+### ESP32
+
+Might need driver https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
