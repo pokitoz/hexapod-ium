@@ -648,6 +648,10 @@
     [
       "9d501995-221a-454a-934e-4afa4d88b86e",
       "Root"
+    ],
+    [
+      "b824ea32-6e2e-4672-ad84-5344df4cca9e",
+      "ESP32"
     ]
   ],
   "text_variables": {}
