@@ -8,7 +8,7 @@ An hexapod robot using arduino and servo motors
 
 - 6x Leg (3 of them must be mirrored)
 - 6x Holder
-- 12 servo motors: SG90 Micro Servo with screws
+- 12 servo motors: MG90S or SG90 Micro Servo with screws
 - 1 Arduino Uno
 - PCA9865 (https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all)
 - Blu-tack
