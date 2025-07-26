@@ -23,8 +23,11 @@ You need at least 2A upper limit to move all the motors at once.
 
 See the Kicad project in hw/ folder.
 
-Manufacturing was done with PCBWay: https://www.pcbway.com/ using the Pluggin (https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
-<img width="205" height="64" alt="image" src="https://github.com/user-attachments/assets/2eeb5994-6ae4-4f47-8fc8-b34a461be5a4" />
+Manufacturing and component assembly was done with PCBWay: https://www.pcbway.com/.
+
+There is a Kicad Pluggin (https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
+<img width="205" height="64" alt="image" src="https://github.com/user-attachments/assets/2eeb5994-6ae4-4f47-8fc8-b34a461be5a4" />, 
+simplifying the order process.
 
 ### PCB
 
