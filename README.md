@@ -2,8 +2,8 @@
 
 An hexapod robot using arduino and servo motors
 
+![PXL_20250726_183029919](https://github.com/user-attachments/assets/f495f0f5-c5ed-42a1-998d-fa5a84e291cc)
 ![20220917_185626 2777](https://user-images.githubusercontent.com/6117941/190868208-11697652-cd76-4673-8842-9c9b7dfe3679.jpg)
-![PXL_20250726_171151650](https://github.com/user-attachments/assets/d0fdc97c-ab5d-4f7f-8016-b05f0b2b9faf)
 
 ## Hardware
 
