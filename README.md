@@ -1,4 +1,5 @@
 # hexapod-ium
+
 An hexapod robot using arduino and servo motors
 
 ![20220917_185626 2777](https://user-images.githubusercontent.com/6117941/190868208-11697652-cd76-4673-8842-9c9b7dfe3679.jpg)
@@ -15,7 +16,25 @@ An hexapod robot using arduino and servo motors
 - Jumper cables
 
 Need 5V for the motors board. VCC will be propagated to the main board (Arduino, ESP32,..)
-You need at least 2A upper limit to move.
+
+You need at least 2A upper limit to move all the motors at once.
+
+## Hardware
+
+See the Kicad project in hw/ folder.
+
+Manufacturing was done with PCBWay: https://www.pcbway.com/ using the Pluggin (https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
+
+### PCB
+
+Kicad was used for the PCB design to add 2xPCA9865 and an ESP32.
+
+### 3D Parts 
+
+3D Printed parts can be done using a Prusa or Bamboo or any other 3d printer like the first iteration. But it was simpler to use PCBWay and the quality
+was better than printing on my own. The parameter used were:
+- Resin Standard white material (UTR 8360)
+- SLA
 
 ## Software
 
