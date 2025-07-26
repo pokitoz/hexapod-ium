@@ -3,7 +3,7 @@
 An hexapod robot using arduino and servo motors
 
 ![20220917_185626 2777](https://user-images.githubusercontent.com/6117941/190868208-11697652-cd76-4673-8842-9c9b7dfe3679.jpg)
-![Screenshot 2025-05-13 153730](https://github.com/user-attachments/assets/141fc9b0-9907-4e44-b969-7053a2d981f2)
+![PXL_20250726_171151650](https://github.com/user-attachments/assets/d0fdc97c-ab5d-4f7f-8016-b05f0b2b9faf)
 
 ## Hardware
 
@@ -24,10 +24,14 @@ You need at least 2A upper limit to move all the motors at once.
 See the Kicad project in hw/ folder.
 
 Manufacturing was done with PCBWay: https://www.pcbway.com/ using the Pluggin (https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
+<img width="205" height="64" alt="image" src="https://github.com/user-attachments/assets/2eeb5994-6ae4-4f47-8fc8-b34a461be5a4" />
 
 ### PCB
 
 Kicad was used for the PCB design to add 2xPCA9865 and an ESP32.
+
+<img width="467" height="371" alt="image" src="https://github.com/user-attachments/assets/0c4a3653-8ac7-4267-8218-153bd54e0733" />
+
 
 ### 3D Parts 
 
@@ -35,6 +39,9 @@ Kicad was used for the PCB design to add 2xPCA9865 and an ESP32.
 was better than printing on my own. The parameter used were:
 - Resin Standard white material (UTR 8360)
 - SLA
+
+![Screenshot 2025-05-13 153730](https://github.com/user-attachments/assets/141fc9b0-9907-4e44-b969-7053a2d981f2)
+
 
 ## Software
 
